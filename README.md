@@ -42,7 +42,7 @@ an illustrated mini review with verifiable references.
 
 ## Example
 
-See [examples/](./examples/) for a real output produced by this skill.
+See [examples](./examples/) for a real output produced by this skill.
 
 ## Design principles
 
